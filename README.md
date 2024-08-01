@@ -30,7 +30,7 @@ To get started with the 3D Plant Facility Simulator:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/3D-Plant-Facility-Simulator.git
+    git clone https://github.com/SamuelOliveira2016/animated-eureka.git
     ```
 2. Navigate to the project directory:
     ```bash

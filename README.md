@@ -41,8 +41,8 @@ To get started with the 3D Plant Facility Simulator:
 ## Usage
 
 1. Launch the PlayCanvas application.
-2. Use the central mark to navigate and explore the facility.
-3. Interact with various components by clicking on them to receive descriptions and ask questions.
+2. Use the central mark to aim an object, navigate and explore the facility.
+3. Interact with various components by "looking" on them to receive descriptions and ask questions.
 4. Engage with the chatbot for detailed explanations and technical insights.
 
 ## Contribution

@@ -63,4 +63,4 @@ This project is licensed under the MIT License. See the `LICENSE.md` file for de
 
 ## Contact
 
-For any inquiries or further information, please contact us at [your-email@example.com].
+For any inquiries or further information, please contact us at samu.olive14@gmail.com.

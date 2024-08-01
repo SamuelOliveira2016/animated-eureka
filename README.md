@@ -1,5 +1,5 @@
 
-# 3D Plant Facility Simulator
+# 3D Plant Facility Simulator - animated-eureka
 
 ## Overview
 
@@ -34,7 +34,7 @@ To get started with the 3D Plant Facility Simulator:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd 3D-Plant-Facility-Simulator
+    cd animated-eureka
     ```
 3. Follow the instructions in the `setup.md` file to configure your environment.
 
